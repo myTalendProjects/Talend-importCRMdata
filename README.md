@@ -62,7 +62,7 @@ Location configured as `dmsRoot` will be considered as the root directory for al
 
 Completed files will be renamed and move to location specified in `dmsCompleted` relative path.
 
-![alttext](./images/Sample-Competed.PNG?raw=true)
+![alttext](./images/Sample-Completed.PNG?raw=true)
 
 Invalid recored in completed files will be renamed and move to location specified in `dmsInvalid`  relative path.
 
