@@ -5,7 +5,7 @@ Talend Job to import CRM (Customer Relationship Management System) data in to Su
 
 
 ## Import and Build in Talend OpenStudio
-This Talend project can be imported and build in Talned open studio for ESB.
+This [Talend project](./IMPORT_CRM_DATA) can be imported and build in Talend open studio for ESB.
 
 ![alttext](./images/ImportProject.PNG?raw=true)
 
