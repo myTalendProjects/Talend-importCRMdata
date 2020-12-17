@@ -20,6 +20,7 @@ A PostgreSQL database needs to be preconfigured. The database schema `(with samp
 Context variables needs to be congured according to the envirionment as mentioned below
 
 | Context Variable | Description  |
+--- | --- 
 | operator_id | DMS operator id|
 | postgresHost | PostgreSQL database host IP| 
 | postgresPort | PostgreSQL database port| 
